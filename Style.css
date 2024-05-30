@@ -10,6 +10,14 @@ header {
     color: #fff;
     padding: 1rem 0;
     text-align: center;
+    position: fixed;
+    top: 0;
+    left:0;
+    right: 0;
+    Z-index: 1000;
+    justify-content: space-between;
+    height: 80px;
+
 }
 header h1 {
     margin: 0;
@@ -85,6 +93,10 @@ nav ul li a {
 /*
 Acceuil
 */
+
+#Acceuil{
+    padding: 80px 1px;
+}
 .iframe-container {
 
     position: relative;
