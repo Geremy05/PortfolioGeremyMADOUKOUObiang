@@ -94,7 +94,7 @@ nav ul li a {
 Acceuil
 */
 
-#Acceuil{
+#Accueil{
     padding: 80px 1px;
 }
 .iframe-container {
@@ -148,6 +148,8 @@ Bouton de téléchargement de mon Cv
 /*
 Compétences
 */
+
+
 section{
     margin-top: 50px;
 }
@@ -161,8 +163,9 @@ section{
     font-size: 50px;
 }
 #Competences{
-    padding: 0 7%;
+
     margin-bottom: 50px;
+    padding: 80px 7%;
 }
 #Competences .content{
     display: grid;
