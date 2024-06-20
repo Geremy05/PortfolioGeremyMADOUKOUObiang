@@ -5,6 +5,9 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
+#unique {
+    color: #ffffff;
+}
 header {
     background: #7d4b3d ;
     color: #fff;
@@ -221,15 +224,12 @@ section{
     transform: translateX(0);
 }
 /*
-Contact
+Last element of my page
 */
-footer {
+#fin {
     text-align: center;
-    padding: 2rem 0;
-    background: #333;
-    color: #fff;
-    margin-top: 2rem;
-}
-#contact a{
+    text-transform: capitalize;
+    font-size: 19px;
+    text-decoration: underline;
     color: #7d4b3d;
 }
